@@ -1,0 +1,87 @@
+
+.user{
+	width: 10%; 
+    height: auto; 
+    display: block; 
+    cursor: pointer;
+    
+
+	
+}
+
+
+
+
+.menu {
+  overflow: hidden;
+  background-color: black;
+}
+
+.menu a {
+  float: left;
+  color: White;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.menu a:hover {
+  background-color: White;
+  color: black;
+}
+
+.menu2 {
+  overflow: hidden;
+  background-color: grey;
+}
+
+.menu2 a {
+  float: left;
+  color: White;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.menu2 a:hover {
+  background-color: White;
+  color: black;
+}
+
+.menu a.act1 {				/*identify the selected item in navigation bar*/
+  background-color: red;
+  color: white;
+}
+.menu2 a.act2 {
+  background-color: red;
+  color: white;
+}
+
+
+.productbox{
+    width: 43%;
+    margin: 1%;
+    padding: 2%;
+    float: left;
+    background-color: white;
+    border-radius: 15px;
+}
+
+
+
+body{
+	    background-color:#ececec;
+
+}
+.btn1,.btn2{
+	background-color:blue;
+	
+}
+
+	
+}
+.sen1 {
+	color:red;
+}

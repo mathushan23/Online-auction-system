@@ -1,0 +1,79 @@
+.user-info {
+    display: block;
+    align-items: center;
+  }
+  
+  .user-photo {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    margin-right: 10px;
+  }
+  
+  .username {
+    font-weight: bold;
+  }
+  
+  .signout-btn {
+    margin-top: 5px;
+  }
+  
+  .logo {
+    max-width: 400px; /* Adjust size as needed */
+  }
+  
+  .nav-link {
+    color: black; /* Adjust color as needed */
+  }
+  
+  .nav-link:hover {
+    color: blue; /* Adjust color as needed */
+  }
+  .user-details{
+    display: block;
+  }
+
+  .box{
+    background-color: lightgrey;
+    width: 150px;
+    height: 150px;
+    border: 3px solid rgb(0, 0, 0);
+    padding: 50px;
+    margin: 20px;
+    text-align: center;
+  }
+
+  .box-1{
+    /* background-color: lightgrey; */
+    width: 250px;
+    height: 350px;
+    border: 3px solid rgb(0, 0, 0);
+    /* padding: 50px; */
+    margin: 20px;
+  }
+
+  .box-2{
+    /* background-color: lightgrey; */
+    width: 250px;
+    height: 250px;
+    border: 3px solid rgb(0, 0, 0);
+    /* padding: 50px; */
+    margin: 20px;
+  }
+  .bt
+  .btn-secondary{
+    margin: 30px;
+  }
+  .border {
+    background-color: lightgrey;
+    border: 3px solid rgb(0, 0, 0);
+    height: 150px;
+  }
+  .active{
+    background-color: rgba(87, 168, 255, 0.743);
+    padding: 5px;
+    border-radius: 8px;
+  }
+
+
+  
